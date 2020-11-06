@@ -1,7 +1,0 @@
-D:\Test\Hello\Hello\bin\Debug\Hello.exe.config
-D:\Test\Hello\Hello\bin\Debug\Hello.exe
-D:\Test\Hello\Hello\bin\Debug\Hello.pdb
-D:\Test\Hello\Hello\obj\Debug\Hello.csprojAssemblyReference.cache
-D:\Test\Hello\Hello\obj\Debug\Hello.csproj.CoreCompileInputs.cache
-D:\Test\Hello\Hello\obj\Debug\Hello.exe
-D:\Test\Hello\Hello\obj\Debug\Hello.pdb
